@@ -1,0 +1,10 @@
+const modapk = () => { 
+	return `
+
+Líder:
+
+➥ RISKY MODDER
+
+`
+}
+exports.modapk = modapk
